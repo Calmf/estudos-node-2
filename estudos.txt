@@ -1,0 +1,19 @@
+(inicia projeto)
+npm init
+
+(instala express)
+npm install express
+
+(biblioteca para tratar saida body)
+npm install body-parser
+
+(mysql)
+npm install mysql
+
+(datas)
+npm install moment
+
+(--save-dev instala somente em ambiente de desenvolvimento)
+npm install --save-dev nodemon
+
+httpstatuses.com
